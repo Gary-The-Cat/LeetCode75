@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=50584a19_002Da7fe_002D4691_002Dbb23_002D52546ffa16d3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Run #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.Binary.SumOfTwoIntegers.Run&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5ff93f5f_002De9e6_002D41b5_002Da705_002D958d5f79f7da/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Run(a: -1, b: 1, expected: 0)" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.Binary.SumOfTwoIntegers.Run.Run(a: -1, b: 1, expected: 0)&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3c25711_002D5292_002D4fde_002Dbce8_002D8ab1c216da3f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Run" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.Binary.SumOfTwoIntegers.Run&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
