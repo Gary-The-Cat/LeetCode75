@@ -31,11 +31,11 @@
       <Folder Include="Interval" />
       <Folder Include="LinkedList" />
       <Folder Include="Matrix" />
-      <Folder Include="String" />
       <Folder Include="Tree" />
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\_125_ValidPalindrome\_125_ValidPalindrome.csproj" />
       <ProjectReference Include="..\_371_SumOfTwoIntegers\_371_SumOfTwoIntegers.csproj" />
     </ItemGroup>
 

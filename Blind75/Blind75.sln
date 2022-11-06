@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTestRunner", "CSharpT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_371_SumOfTwoIntegers", "_371_SumOfTwoIntegers\_371_SumOfTwoIntegers.csproj", "{07616C35-99EB-4904-86F7-F7E27C6AB5E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_125_ValidPalindrome", "_125_ValidPalindrome\_125_ValidPalindrome.csproj", "{6A428E83-1FF3-4B10-AAE5-DD4920C9B105}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{07616C35-99EB-4904-86F7-F7E27C6AB5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07616C35-99EB-4904-86F7-F7E27C6AB5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07616C35-99EB-4904-86F7-F7E27C6AB5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A428E83-1FF3-4B10-AAE5-DD4920C9B105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A428E83-1FF3-4B10-AAE5-DD4920C9B105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A428E83-1FF3-4B10-AAE5-DD4920C9B105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A428E83-1FF3-4B10-AAE5-DD4920C9B105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

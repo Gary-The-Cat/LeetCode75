@@ -12,5 +12,6 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3c25711_002D5292_002D4fde_002Dbce8_002D8ab1c216da3f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Run" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.Binary.SumOfTwoIntegers.Run&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.String.ValidPalindrome+SumOfTwoIntegers.Run&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
