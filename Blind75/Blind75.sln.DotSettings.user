@@ -1,4 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=00cbb2cc_002D6b85_002D4f29_002D9e27_002D13769e5c9432/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Run(s: &amp;quot;abc&amp;quot;, palindromeCount: 3)" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.String.PalindromicSubstrings.Run&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=50584a19_002Da7fe_002D4691_002Dbb23_002D52546ffa16d3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Run #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.Binary.SumOfTwoIntegers.Run&lt;/TestId&gt;&#xD;
@@ -9,9 +14,33 @@
     &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.Binary.SumOfTwoIntegers.Run.Run(a: -1, b: 1, expected: 0)&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3c25711_002D5292_002D4fde_002Dbce8_002D8ab1c216da3f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Run" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d327acec_002D6653_002D4579_002Da50b_002D38961380940b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Run #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.Binary.SumOfTwoIntegers.Run&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.String.ValidPalindrome+SumOfTwoIntegers.Run&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.String.PalindromicSubstrings.Run&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d54f387e_002D3204_002D446e_002D8f26_002D82a70a383d63/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Run #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.String.PalindromicSubstrings.Run&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d70161c4_002D8434_002D48a2_002D880f_002Daf8b429e001b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Run #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.String.PalindromicSubstrings.Run&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3c25711_002D5292_002D4fde_002Dbce8_002D8ab1c216da3f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Run" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.Binary.SumOfTwoIntegers.Run&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.String.ValidPalindrome+SumOfTwoIntegers.Run&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.String.PalindromicSubstrings.Run&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;3A52C855-F476-40F8-8EE2-399CBC47675C/d:String/f:PalindromicSubstrings.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f176a52a_002D7ee2_002D4174_002Da775_002D08dd59ebd071/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Run #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3A52C855-F476-40F8-8EE2-399CBC47675C::net6.0::TestRunner.String.PalindromicSubstrings.Run&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,4 +1,6 @@
-﻿namespace _125_ValidPalindrome;
+﻿using System.Text.RegularExpressions;
+
+namespace _125_ValidPalindrome;
 
 public class PalindromeValidator
 {
